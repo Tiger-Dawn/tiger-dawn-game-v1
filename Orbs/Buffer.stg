@@ -1,0 +1,9 @@
+(nul)
+
+BUFFER_SELECT_HABIT
+    BUFFER = OBJECT.BUFFER
+
+BUFFER_INFO_CHOOSE
+    ID: 1 (Buffer.1)
+    ID: 2 (Buffer.2)
+    ID: 3 (Buffer.3)
