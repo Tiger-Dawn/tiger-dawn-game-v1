@@ -1,0 +1,6 @@
+[#1]
+
+[BUFFERS]
+[1] Ulgia Orb [+2 - +1 - +4 - +9] (Player Level: 3)
+[2] Ourea Orb [+19 - +4 - +12 - +1] (Player Level: 10)
+[3] Geldi Orb [+234 - +92 - +101 - +62] (Player Level: 25)
